@@ -23,6 +23,20 @@ public class Main {
         String iammanychars = "hahahaha";
         String butIcanBeAsingleCharacterToo = "a";
 
+        System.out.println(zeroOrOne);
+        System.out.println(iamtheone);
+        System.out.println(iameightbits);
+        System.out.println(iamsmall);
+        System.out.println(iamlonger);
+        System.out.println(iamlongertoo);
+        System.out.println(iamlongest);
+        System.out.println(whereIsMyMantissa);
+        System.out.println(floatIsSingle);
+        System.out.println(iAmTheDouble);
+        System.out.println(simpleCharacter);
+        System.out.println(iammanychars);
+        System.out.println(butIcanBeAsingleCharacterToo);
+
 
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,

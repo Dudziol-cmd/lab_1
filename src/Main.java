@@ -10,9 +10,12 @@ public class Main {
         long longest = 99999999;
 
         System.out.println(mrBool);
-        System.out.println(shorty);
+        System.out.print(shorty);
+        System.out.println();
         System.out.println(integer);
         System.out.println(longest);
+        System.out.printf("Hello everybody!");
+        System.out.println();
 
         System.out.println("Long variable is: " + longest + " haha");
         long longerLongest = longest + integer + shorty;
